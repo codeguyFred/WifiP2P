@@ -1,3 +1,5 @@
+https://developer.android.google.cn/guide/topics/connectivity/wifip2p?hl=zh_cn
+
 > 于 2019/11/24 更新，主要是适配了运行时权限，修复 bug，优化了传输流程
 
 最近的项目需要实现一个 Android 手机之间无网络传输文件的功能，就研究了下 **Wifi P2P（Wifi点对点)** 这么一个功能，最后也实现了通过 **Wifi 隔空传输文件** 的功能，这里我也来整理下代码，分享给大家。
